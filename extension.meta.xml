@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension id="parameters" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+    <name>Parameters</name>
+    <description>Makes URL parameters actually useable.</description>
+    <repo type="github">https://github.com/jensscherbl/symphony-parameters</repo>
+    <types>
+        <type>Other</type>
+    </types>
+    <authors>
+        <author>
+            <name github="jensscherbl" symphony="jensscherbl">Jens Scherbl</name>
+        </author>
+    </authors>
+    <releases>
+        <release version="1.0.0" date="2015-09-01" min="2.6.x" max="2.x.x"/>
+    </releases>
+</extension>
